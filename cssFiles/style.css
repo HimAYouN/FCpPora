@@ -9,7 +9,6 @@ body{
     margin: 10px;
     height: 80px;
     border-radius: 50%;
-    
     background-color: rgb(66, 66, 66);
     
   
@@ -44,6 +43,43 @@ body{
     color: white;
   }
 .vid.main{
+  float: left;
     border: 5px solid black;
     height: 40%;
+}
+
+.img_top{
+  position: relative;
+}
+.top_detail h1{
+  margin: auto;
+  padding: 20px;
+  background-color: rgb(177, 255, 255);
+}
+
+.top_detail p {
+  margin: 0px;
+  padding: 20px;
+  font-size: 30px;
+  display: inline-block;
+  background-color: rgb(177, 255, 255);
+}
+
+
+
+.contact_Section{
+  background-color: rgb(139, 255, 255);
+  margin: 0;
+
+
+}
+.contact_Section h2{
+  text-align: center;
+  
+}
+
+
+.twitter{
+  margin: 10px;
+  height: 8%;
 }
