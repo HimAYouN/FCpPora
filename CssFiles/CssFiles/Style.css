@@ -1,0 +1,91 @@
+/*font-family: 'Great Vibes', cursive;
+font-family: 'Inspiration', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Major Mono Display', monospace;
+font-family: 'Roboto Mono', monospace;
+*/
+body{
+    font-family: sans-serif, 'Courier New', Courier, monospace;
+    color: black;
+    /*background: rgb(255,153,214);
+    background: linear-gradient(90deg, rgb(247, 130, 200) 0%, rgba(255,255,255,1) 100%);
+*/
+background: rgb(255,153,214);
+background: linear-gradient(90deg, rgba(255,153,214,1) 0%, rgba(132,234,246,1) 32%, rgba(247,117,220,1) 65%, rgba(255,255,255,1) 88%, rgba(255,255,255,1) 100%);
+}
+
+.nav-bar > h1{
+    font-family: 'Merriweather', serif;
+    color: blue;
+    text-align: center;
+}
+.logo{
+    height: 100px;
+    border-radius: 50% ;
+}
+.img1{
+    max-width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.centered {
+    
+    color: rgb(150, 55, 150);
+    font-size: 40px;
+    font-family: 'Satisfy', cursive;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.img2{
+    max-width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+  .secondpage{
+      margin: 30px;
+      text-align: center;
+  }
+  .secondpage > h1{
+      display: inline;
+      
+  }
+  .secondpage > p{
+    font-family: 'Major Mono Display', monospace;
+    display: inline;
+    vertical-align: top;
+  }
+.spacediv{
+    height: 700px;
+}
+#socialicon{
+    border: 0px;
+    height: 80px;
+    display: inline-block;
+    column-gap: 5px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .contact{
+      background-color: violet;
+     text-align: center; 
+  }
+  .contact >h2{
+      text-align: center;
+  }
+  .contact > a{
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    font-size: 26px;
+  }
+
