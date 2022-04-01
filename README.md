@@ -1,1 +1,3 @@
-Live development of this project is avaliable [Click Here](himayoun.github.io/Fc_Ppora/)
+Live development of this project is avaliable [Click Here](https://himayoun.github.io/FCpPora/)
+This project was created by Rishab & Himayoun.
+
