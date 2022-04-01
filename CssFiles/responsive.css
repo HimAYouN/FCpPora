@@ -1,0 +1,119 @@
+
+  @media screen and (max-width: 1600px) {
+    .ul2 {
+        max-width: 90%;
+        display: block;
+        margin-left: auto;
+        margin-right: -950px;
+       }
+       .spacediv1{
+           height: 0px;
+       }
+  }
+
+@media screen and (max-width: 1250px) {
+  .ul2 {
+      max-width: 90%;
+      display: block;
+      margin-left: auto;
+      margin-right: -650px;
+     }
+     .spacediv1{
+         height: 0px;
+     }
+}
+
+@media screen and (max-width: 1100px) {
+    .ul2 {
+        max-width: 90%;
+        display: block;
+        margin-left: auto;
+        margin-right: -590px;
+       }
+       .spacediv1{
+           height: 0px;
+       }
+    }
+@media screen and (max-width: 1000px) {
+    .centered{
+        font-size: 20px;
+        top: 10%;
+        left: 50%;
+    }
+    .ul2 {
+        max-width: 90%;
+        display: block;
+        margin-left: auto;
+        margin-right: -500px;
+       }
+       .spacediv1{
+           height: 0px;
+       }
+  }
+  
+  @media screen and (max-width: 1050px) {
+    .ul2 {
+        max-width: 90%;
+        display: block;
+        margin-left: auto;
+        margin-right: -470px;
+       }
+       .spacediv1{
+           height: 0px;
+       }
+       .centered{
+           top: 20%;
+       }
+  }
+  @media screen and (max-width: 950px) {
+    .ul2 {
+        max-width: 90%;
+        display: block;
+        margin-left: auto;
+        margin-right: -450px;
+       }
+       .spacediv1{
+           height: 0px;
+       }
+  }
+  
+  @media screen and (max-width: 900px) {
+    .ul2 {
+        max-width: 90%;
+        display: block;
+        margin-left: auto;
+        margin-right: -400px;
+       }
+       .spacediv1{
+           height: 0px;
+       }
+  }
+  @media screen and (max-width: 850px) {
+    .ul2 {
+        
+        max-width: 90%;
+        display: block;
+        margin-left: auto;
+        margin-right: -300px;
+       }
+       .spacediv1{
+           height: 0px;
+       }
+  }
+  
+  @media screen and (max-width: 720px) {
+    .ul2 {
+        max-width: 90%;
+        display: block;
+        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+       }
+       .spacediv1{
+           height: 700px;
+       }
+       .centered{
+           top: 15%;
+           font-size: 15px;
+       }
+  }
