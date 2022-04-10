@@ -28,7 +28,9 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fd61be",endCo
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: rgba(199, 197, 197, 0.753);
+    height: 100%;
+    background: rgb(76,156,251);
+    background: linear-gradient(90deg, rgba(61, 205, 248, 0.705) 0%, rgba(252, 56, 252, 0.712) 100%);
     z-index: 1;
     display: grid;
     justify-content: center;
@@ -40,8 +42,12 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fd61be",endCo
     pointer-events: none;
 }
 .preloader h4{
-    top: 75%;
-    font-size: 25px;
+    position: absolute;
+    bottom: 25%;
+    right: 30%;
+    text-align: center;
+    font-size: 30px;
+    
 }
 
 .nav-bar > h1{
