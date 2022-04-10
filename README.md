@@ -3,9 +3,9 @@
 
 - 🚀Live Deployment [Click here](https://himayoun.github.io/FCpPora/)
 
-- 👯 We are looking to collaborate on this project for more features [Click here](https://himayoun.github.io/FCpPora/)
+- 👯 We are looking to collaborate on [this project](https://himayoun.github.io/FCpPora/) for more features ✉ Wanna Collab [DM us here](https://bit.ly/3qWehB5)
 
-- ✉Wanna Collab DM us here [Click here](https://bit.ly/3qWehB5)
+
 
 - 👨‍💻 All of my projects are available at [Click here](https://himayoun.github.io/portfolio/)
 
