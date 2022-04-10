@@ -52,10 +52,8 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fd61be",endCo
 
 .nav-bar > h1{
     font-family: 'Merriweather', serif;
-    /* color: blue; */
-    background: -webkit-linear-gradient(rgb(209, 59, 247), rgb(83, 38, 245));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    color: blue;
+    
     text-align: center;
 }
 .logo{
@@ -71,9 +69,8 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fd61be",endCo
 .centered {
     
     /*color: rgb(150, 55, 150);*/
-    color: rgb(0, 0, 0);
-    background: rgb(76,156,251);
-    background: linear-gradient(90deg, rgba(76,156,251,0.40372122970281865) 0%, rgba(255,78,156,0.40372122970281865) 100%);
+    color: rgb(180, 43, 162);
+    
     font-size: 30px;
     font-family: 'Satisfy', cursive;
     position: absolute;
