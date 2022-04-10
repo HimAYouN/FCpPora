@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://fb.com/https://bit.ly/fc_pp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://bit.ly/fc_pp" height="30" width="40" /></a>
-<a href="https://instagram.com/https://bit.ly/3qwehb5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://bit.ly/3qwehb5" height="30" width="40" /></a>
+<a href="https://bit.ly/fc_pp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://bit.ly/fc_pp" height="30" width="40" /></a>
+<a href="https://bit.ly/3qwehb5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://bit.ly/3qwehb5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
