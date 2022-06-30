@@ -8,7 +8,7 @@
     color: crimson;
 }
 .img-fluid{
-    height: 50vh;
+    /* height: 50vh; */
 }
 .quotes{
     margin: 30px;
@@ -24,6 +24,4 @@ cursor: crosshair;
 .imgGallerySection{
     margin: 5%;
 }
-.img-fluid:hover{
-    
-}
+

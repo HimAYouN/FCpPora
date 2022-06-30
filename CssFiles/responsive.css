@@ -1,4 +1,29 @@
 
+
+@media screen and (max-width: 2000px) {
+    .img-fluid {
+        height: 50vh;
+        
+    }
+  }
+@media screen and (max-width: 600px) {
+    .img-fluid {
+        height: 40vh;
+        
+    }
+  }
+@media screen and (max-width: 300px) {
+    .img-fluid {
+        height: 20vh;
+        
+    }
+  }
+
+
+
+
+
+
   @media screen and (max-width: 1600px) {
     .ul2 {
         max-width: 90%;
