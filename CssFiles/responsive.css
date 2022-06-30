@@ -6,15 +6,33 @@
         
     }
   }
+@media screen and (max-width: 800px) {
+    .img-fluid {
+        height: 45vh;
+        
+    }
+  }
 @media screen and (max-width: 600px) {
     .img-fluid {
         height: 40vh;
         
     }
   }
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 400px) {
+    .img-fluid {
+        height: 18vh;
+        
+    }
+  }
+@media screen and (max-width: 500px) {
     .img-fluid {
         height: 20vh;
+        
+    }
+  }
+@media screen and (max-width: 300px) {
+    .img-fluid {
+        height: 15vh;
         
     }
   }
