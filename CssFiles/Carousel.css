@@ -1,0 +1,29 @@
+.carousel_section{
+    position: relative;
+    margin: 10px;
+    padding: 10px;
+    color: crimson;
+}
+.carousel-item > p{
+    color: crimson;
+}
+.img-fluid{
+    height: 50vh;
+}
+.quotes{
+    margin: 30px;
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    color: #f0c85c;
+}
+.quotes:hover{
+color: #5cf0f0;
+transition: all 0.3s ease-in-out;
+cursor: crosshair;
+}
+.imgGallerySection{
+    margin: 5%;
+}
+.img-fluid:hover{
+    
+}

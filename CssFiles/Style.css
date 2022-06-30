@@ -25,18 +25,19 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fd61be",endCo
     box-shadow: none;
 }
 .preloader{
+    
     position: fixed;
     top: 0;
     width: 100%;
-    height: 100%;
-    background: rgb(76,156,251);
-    background: linear-gradient(90deg, rgba(61, 205, 248, 0.705) 0%, rgba(252, 56, 252, 0.712) 100%);
+    height: 100vh;
+    background-color: #fd8af7;
     z-index: 1;
     display: grid;
     justify-content: center;
     align-items: center;
     transition: all 0.2s ease;
 }
+
 .preloader-finish{
     opacity: 0;
     pointer-events: none;
